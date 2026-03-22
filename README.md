@@ -165,11 +165,3 @@ For any custom workflows or advanced relationships, refer to the full CMS guide 
 
 ---
 
-## GitHub Pages Setup
-
-To serve this documentation as a website:
-1. Go to your repository settings on GitHub.
-2. Find the "Pages" section.
-3. Set the source to the `main` branch and `/docs` folder.
-4. Save. Your documentation will be live at `https://<your-username>.github.io/jlss-doc/`.
-
